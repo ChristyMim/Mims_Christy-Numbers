@@ -1,0 +1,11 @@
+E:\vbp\Mims_Christy Numbers\Mims_Christy Numbers\bin\Debug\Mims_Christy Numbers.exe.config
+E:\vbp\Mims_Christy Numbers\Mims_Christy Numbers\bin\Debug\Mims_Christy Numbers.exe
+E:\vbp\Mims_Christy Numbers\Mims_Christy Numbers\bin\Debug\Mims_Christy Numbers.pdb
+E:\vbp\Mims_Christy Numbers\Mims_Christy Numbers\bin\Debug\Mims_Christy Numbers.xml
+E:\vbp\Mims_Christy Numbers\Mims_Christy Numbers\obj\Debug\Mims_Christy Numbers.vbprojResolveAssemblyReference.cache
+E:\vbp\Mims_Christy Numbers\Mims_Christy Numbers\obj\Debug\Mims_Christy_Numbers.frmNumbers.resources
+E:\vbp\Mims_Christy Numbers\Mims_Christy Numbers\obj\Debug\Mims_Christy_Numbers.Resources.resources
+E:\vbp\Mims_Christy Numbers\Mims_Christy Numbers\obj\Debug\Mims_Christy Numbers.vbproj.GenerateResource.Cache
+E:\vbp\Mims_Christy Numbers\Mims_Christy Numbers\obj\Debug\Mims_Christy Numbers.exe
+E:\vbp\Mims_Christy Numbers\Mims_Christy Numbers\obj\Debug\Mims_Christy Numbers.xml
+E:\vbp\Mims_Christy Numbers\Mims_Christy Numbers\obj\Debug\Mims_Christy Numbers.pdb
